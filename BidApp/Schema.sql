@@ -1,15 +1,15 @@
 
--- CREATE Databse 'cs6400_sp18_team037';
-DROP DATABASE IF EXISTS cs6400_sp18_team037; 
+-- CREATE Databse 'myDatabase';
+DROP DATABASE IF EXISTS myDatabase; 
 
 SET default_storage_engine=InnoDB; 
 
 SET NAMES utf8mb4 COLLATE utf8mb4_unicode_ci; 
 
-CREATE DATABASE IF NOT EXISTS cs6400_sp18_team037 
+CREATE DATABASE IF NOT EXISTS myDatabase 
     DEFAULT CHARACTER SET utf8mb4 
     DEFAULT COLLATE utf8mb4_unicode_ci;
-USE cs6400_sp18_team037;
+USE myDatabase;
 
 
 
