@@ -1,5 +1,5 @@
 
-USE cs6400_sp18_team037 ;
+USE myDatabase ;
 
 -- Inserting  Users --
 INSERT INTO User (username,password,first_name,last_name) VALUES ('user1','pass1','Danite','Kelor');
